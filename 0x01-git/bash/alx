@@ -1,2 +1,1 @@
-clear
-:!/bin/becho "ALX"ash
+#!/bin/bash                              echo "ALX"
